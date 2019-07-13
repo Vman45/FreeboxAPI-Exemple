@@ -12,8 +12,8 @@ Ce programme est très simple et la partie 'sécurité' n'a pas été ma priorit
 
 ### Utilisation
 ```python
-$ git clone https://github.com/TekashiProject/FreeboxAPI---V6
-$ cd FreeboxAPI---V6
+$ git clone https://github.com/TekashiProject/FreeboxAPI-Exemple
+$ cd FreeboxAPI-Exemple
 $ python freebox-api.py
 ```
 
